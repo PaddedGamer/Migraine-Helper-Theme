@@ -9,6 +9,4 @@ CREATING YOUR OWN THEME: You are allowed to freely create themes based on this t
 
 ![image](https://user-images.githubusercontent.com/6026744/235577822-52b8a1ed-d0ac-4846-b417-6fe66959d32a.png)
 
-![image](https://user-images.githubusercontent.com/6026744/235577890-183e869f-ef32-4303-8c91-dff848f79d2b.png)
-
 ![image](https://user-images.githubusercontent.com/6026744/235577928-e970c52a-29bd-4407-b657-77e7aff5b664.png)
